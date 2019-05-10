@@ -1,24 +1,10 @@
-# README
+# Where-is-meshiya
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+https://young-citadel-39267.herokuapp.com/
 
-* Ruby version
+筑波大学周辺向けにランダムで飯屋を提案します、へへっ
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+全5種です
+///今後の機能
+ツイッターで任意のリストの中のフォロワーに飯屋行かへんって投げれたら楽しいかもね知らん
