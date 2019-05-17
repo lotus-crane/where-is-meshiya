@@ -3,6 +3,11 @@
 <center>
   <h1><%= @recommend.name %></h1>
   <h2><%= @recommend.meshitype %>のお店です、ワオワオ！</h2>
+  <ul>
+    <li>住所:<%= @recommend.address %></li>
+    <li>電話番号:<%= @recommend.tel %></li>
+    <li>定休日:<%= @recommend.holiday %></li>
+  </ul>
   <h2>開店しているのは<%= @recommend.openclose %>みたい！</h2>
   <h2>現在時刻は<%= time%>ですよ！</h2>
 </center>
