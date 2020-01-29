@@ -1,5 +1,5 @@
 # Where-is-meshiya
-enpit2019 課題用
+enpit2019 rails入門課題用
 
 https://young-citadel-39267.herokuapp.com/
 
